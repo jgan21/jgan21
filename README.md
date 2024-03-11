@@ -1,6 +1,6 @@
 ### Hello, I am Jia! 👋
 
-[🎻, 👩🏻‍💻] = I am a violinist who codes!
+[👩🏻‍💻, 🎻] = I am a software engineer and violinist!
 
 [🇲🇾, 🇺🇸] = Grew up in Malaysia but completed my education in USA.
 
