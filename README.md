@@ -4,7 +4,7 @@
 
 [🇲🇾, 🇺🇸] = Grew up in Malaysia but completed my education in USA.
 
-[🧺, 💻] = Here to weave my passion for music with software programming to develop fun, mindful, and impactful applications.
+[🧺, 💻] = Here to weave my skills in music with software programming to develop fun, mindful, and impactful applications.
 
 
 <!--
